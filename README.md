@@ -13,7 +13,7 @@ An **Online Notes Sharing System** built using Python, Django, and MySQL, allowi
 
 ## ✨ Features
 
-- **User authentication & role-based access** (Students & Teachers).
+- **User authentication** (Students).
 - **Upload, download, and manage notes** securely.
 - **Categorized note organization** for easy access.
 - **Search functionality** to quickly find notes.
@@ -31,7 +31,7 @@ An **Online Notes Sharing System** built using Python, Django, and MySQL, allowi
 ### 2️⃣ Installation Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/online-notes-sharing.git
+   git clone https://github.com/GaneshRenuse/online-notes-sharing.git
    ```
 2. Navigate to the project directory:
    ```bash
@@ -74,9 +74,7 @@ An **Online Notes Sharing System** built using Python, Django, and MySQL, allowi
 ## 🔒 Login Credentials (Sample)
 | Role  | Username | Password |
 |--------|------------|------------|
-| Admin | admin | admin123 |
-| Teacher | teacher | teacherpass |
-| Student | student | studentpass |
+| User | user1 | u123 |
 
 ## 🏗 Future Enhancements
 - Integration of **file preview functionality**.
@@ -89,6 +87,4 @@ Contributions are welcome! Fork the repo, create a branch, and submit a pull req
 ## 📜 License
 This project is licensed under the **MIT License**.
 
----
-
-🚀 **Feel free to enhance and modify as needed!** Let me know if you want any changes. 😊  
+---  
